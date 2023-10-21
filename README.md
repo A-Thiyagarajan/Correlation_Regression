@@ -4,11 +4,8 @@
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
-
 # Software required :  
-
 Python
-
 # Theory:
 
 Correlation describes the strength of an association between two variables, and is completely symmetrical, the correlation between A and B is the same as the correlation between B and A. However, if the two variables are related it means that when one changes by a certain amount the other changes on an average by a certain amount.  
@@ -54,7 +51,7 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-# Result
+# Output :
 ![3](https://github.com/A-Thiyagarajan/Correlation_Regression/assets/118707693/555f1bbe-31f1-407f-a5c6-c25374439737)
-
-# Output 
+# Result :
+The given data is analysed using coeffificient of correlation and regression line.
